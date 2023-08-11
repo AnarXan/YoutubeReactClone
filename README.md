@@ -6,7 +6,7 @@
 
   # Youtube Clone with React
 
-Today I create with html, css and js file for Form Application. I use here html, css and js tags. 
+Today I create with html, css and react file for Youtube Clone with React. I use here html, css and react tags, components and ecc. 
 ## ## RULES OF USE
 
 > *STEP-1:* `https://github.com/AnarXan/YoutubeReactClone.git` <br/>
@@ -25,7 +25,7 @@ This project was developed using the following technologies
 | 1 | HTML | Building a project skeleton |
 | 2 | CSS |  Make-up of the established skeleton |
 | 3 | GIT |  Project version control management |
-| 4 | JS | Dynamic operations |
+| 4 | React | Dynamic operations |
 | 5 | VSCode | Text editor used in the project |
 
 
