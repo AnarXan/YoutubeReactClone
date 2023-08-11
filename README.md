@@ -9,11 +9,11 @@
 Today I create with html, css and js file for Form Application. I use here html, css and js tags. 
 ## ## RULES OF USE
 
-> *STEP-1:* `https://github.com/AnarXan/FormApplication.git` <br/>
-> *STEP-2:*  enter the `FormApplication` folder that appears <br/>
+> *STEP-1:* `https://github.com/AnarXan/YoutubeReactClone.git` <br/>
+> *STEP-2:*  enter the `YoutubeCloneReact` folder that appears <br/>
 > *STEP-3:*  open the folder you are in in a text editor <br/>
-> *STEP-4:*  run the  all the`index.html` files in the main folder <br/>
-> *STEP-5:*  to download the project as `.zip`  [here](https://github.com/AnarXan/FormApplication/archive/refs/heads/master.zip) click <br/>
+> *STEP-4:*  run the  all the`App.js` files in the main folder <br/>
+> *STEP-5:*  to download the project as `.zip`  [here](https://github.com/AnarXan/YoutubeReactClone/archive/refs/heads/master.zip) click <br/>
 
 
 ## Technology
@@ -31,4 +31,6 @@ This project was developed using the following technologies
 
 ## SAMPLE SCREEN APPEARANCE
 
-![There was a screenshot here](./screen.PNG)
+![There was a screenshot here](./screen-1.png)
+![There was a screenshot here](./screen-2.png)
+![There was a screenshot here](./screen-4.png)
